@@ -1,7 +1,7 @@
 # Bytebank
 
 
-This project was created to study angular as a front-end application. The classes were provided by alura. (www.alura.com)
+This project was created for angular study porpouse as a front-end application. The classes were provided by alura. (www.alura.com)
 
 ## Development server
 
