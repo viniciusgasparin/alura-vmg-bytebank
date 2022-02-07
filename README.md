@@ -1,6 +1,7 @@
 # Bytebank
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+
+This project was created to study angular as a front-end application. The classes were provided by alura. (www.alura.com)
 
 ## Development server
 
